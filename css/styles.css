@@ -1,10 +1,14 @@
 .sidebar {
-  width: 30%
+  width: 20%;
   float: left;
+  background-color: blueviolet;
+  text-align: left;
 }
 
 .main {
-  width: 50%;
-  float: none;
-  background-color:red;
+  background-color:rgb(199, 162, 248);
+}
+
+.image{
+  float: left;
 }
